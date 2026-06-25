@@ -1,0 +1,74 @@
+[
+  {
+  "id": 1,
+  "name": "Wireless Headphones",
+  "price": 59.99,
+  "category": "Electronics",
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=500&q=60",
+  "description": "High-quality wireless headphones with deep bass and noise isolation."
+},
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 89.99,
+    "category": "Electronics",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=500&q=60",
+    "description": "Track your fitness, heart rate, and notifications with this sleek smartwatch."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 69.99,
+    "category": "Fashion",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=60",
+    "description": "Lightweight and comfortable running shoes for everyday fitness."
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 39.99,
+    "category": "Fashion",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=500&q=60",
+    "description": "Durable backpack with multiple compartments for travel and college use."
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "category": "Electronics",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=500&q=60",
+    "description": "Ergonomic gaming mouse with customizable DPI settings."
+  },
+  {
+    "id": 6,
+    "name": "Coffee Mug",
+    "price": 9.99,
+    "category": "Home",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=500&q=60",
+    "description": "Ceramic coffee mug perfect for your daily caffeine fix."
+  },
+  {
+    "id": 7,
+    "name": "Desk Lamp",
+    "price": 24.99,
+    "category": "Home",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=500&q=60",
+    "description": "Modern LED desk lamp with adjustable brightness."
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 19.99,
+    "category": "Fashion",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=500&q=60",
+    "description": "Stylish UV-protection sunglasses for outdoor use."
+  }
+]
